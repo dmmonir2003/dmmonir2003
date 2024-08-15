@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typing Animation</title>
-    <style>
-        body {
-            background-color: #282c34;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            color: white;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .container {
-            font-size: 24px;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 3px solid;
-            width: 22ch;
-            animation: typing 3.5s steps(22) infinite, blink 0.75s step-end infinite;
-        }
 
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 22ch; }
-        }
-
-       ke
 <h1 align="center">Hi 👋, I'm Md Moniruzzanamn</h1>
 <h3 align="center">A passionate Backend-Focused-Full Stack
 Developer from Bangladesh</h3>
