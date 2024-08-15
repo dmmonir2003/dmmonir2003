@@ -28,22 +28,7 @@
             to { width: 22ch; }
         }
 
-        @keyframes blink {
-            from, to { border-color: transparent; }
-            50% { border-color: white; }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">Full Stack Developer</div>
-</body>
-</html>
-
-
-
-
-
-
+       ke
 <h1 align="center">Hi 👋, I'm Md Moniruzzanamn</h1>
 <h3 align="center">A passionate Backend-Focused-Full Stack
 Developer from Bangladesh</h3>
