@@ -1,6 +1,4 @@
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="40" font-family="Courier New" font-size="24" fill="white">Full Stack Developer</text>
-</svg>
+
 <h1 align="center">Hi 👋, I'm Md Moniruzzanamn</h1>
 <h3 align="center">A passionate Backend-Focused-Full Stack
 Developer from Bangladesh</h3>
